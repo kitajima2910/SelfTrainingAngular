@@ -1,0 +1,34 @@
+.card {
+  width: 150px;
+  height: 210px;
+  border: 1px solid #000;
+
+  figure {
+    width: 100%;
+    height: 100%;
+
+    .wrapper-img {
+      padding: 16px 16px 0;
+    }
+
+    .wrapper-title-content {
+      padding: 16px;
+
+      .wrapper-title {
+        margin-bottom: 16px;
+
+        .title {
+          font-weight: 700;
+        }
+
+        .sub-title {
+          font-style: italic;
+        }
+
+      }
+
+    }
+
+  }
+
+}
